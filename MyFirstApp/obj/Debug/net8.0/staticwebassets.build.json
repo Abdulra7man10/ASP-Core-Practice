@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "C5R14c6a8223Uj+srmpVBJjXo/8YpWE8AHfmsLn2nYE=",
+  "Source": "MyFirstApp",
+  "BasePath": "_content/MyFirstApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyFirstApp\\wwwroot",
+      "Source": "MyFirstApp",
+      "ContentRoot": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\wwwroot\\",
+      "BasePath": "_content/MyFirstApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\wwwroot\\abdoCv.pdf",
+      "SourceId": "MyFirstApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\wwwroot\\",
+      "BasePath": "_content/MyFirstApp",
+      "RelativePath": "abdoCv.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\abdoCv.pdf"
+    }
+  ]
+}

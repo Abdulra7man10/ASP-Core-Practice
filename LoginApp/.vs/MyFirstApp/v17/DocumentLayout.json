@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC77EA1-DA39-41B6-8463-0A670EBE15EC}|..\\MathApp\\MathApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\mathapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC77EA1-DA39-41B6-8463-0A670EBE15EC}|..\\MathApp\\MathApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\mathapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC77EA1-DA39-41B6-8463-0A670EBE15EC}|..\\MathApp\\MathApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\mathapp\\mathapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC77EA1-DA39-41B6-8463-0A670EBE15EC}|..\\MathApp\\MathApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\mathapp\\mathapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\myfirstapp\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\myfirstapp\\myfirstapp\\cutstommiddleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\cutstommiddleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\myfirstapp\\myfirstapp\\cutstommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\cutstommiddleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\abdo1\\desktop\\current_track\\1-back-end-track\\asp.net\\myfirstapp\\myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{162A5E2E-1A76-478B-B9D0-4954D78D1752}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\MathApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\MathApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T08:04:25.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathApp",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\MathApp.csproj",
+              "RelativeDocumentMoniker": "..\\MathApp\\MathApp.csproj",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\MathApp.csproj",
+              "RelativeToolTip": "..\\MathApp\\MathApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T08:04:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MathApp",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\MathApp.csproj",
+              "RelativeDocumentMoniker": "..\\MathApp\\MathApp.csproj",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\MathApp.csproj",
+              "RelativeToolTip": "..\\MathApp\\MathApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T08:04:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MathApp\\Program.cs",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MathApp\\Program.cs*",
+              "RelativeToolTip": "..\\MathApp\\Program.cs*",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA5wGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:02:39.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\CutstomMiddleware\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\CutstomMiddleware\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\CutstomMiddleware\\CustomMiddleware.cs",
+              "RelativeToolTip": "MyFirstApp\\CutstomMiddleware\\CustomMiddleware.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:52:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\CutstomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\CutstomMiddleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\CutstomMiddleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "MyFirstApp\\CutstomMiddleware\\MyCustomMiddleware.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:21:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T18:08:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\Program.cs",
+              "RelativeToolTip": "MyFirstApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:37:31.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
