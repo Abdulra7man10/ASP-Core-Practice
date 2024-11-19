@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "asPsd0Gt1I751HJh35geGgIRkvFa00l/8QiKs/+oLFo=",
+  "Hash": "cU1hVXQ1sGFiKnkZXMG3pe1hjFykkSh93He5AIlPckI=",
   "Source": "BankApp",
   "BasePath": "_content/BankApp",
   "Mode": "Default",
@@ -8,9 +8,9 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BankApp\\wwwroot",
+      "Name": "BankApp/wwwroot",
       "Source": "BankApp",
-      "ContentRoot": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\BankApp\\wwwroot\\",
+      "ContentRoot": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/BankApp/wwwroot/",
       "BasePath": "_content/BankApp",
       "Pattern": "**"
     }

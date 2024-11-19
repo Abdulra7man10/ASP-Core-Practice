@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIN8x2ZHjbA=",
+  "dgSpecHash": "MIGcXJlZyoR8KZMR0NYUEtH1TIAQ0g0FwKoNRpUSpKpPlpLlqJ3kX+Dnw0vMKrNXXAkrZEPq/0SiyJ18nWruCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\ContriesApp\\ContriesApp.csproj",
+  "projectFilePath": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/ContriesApp/ContriesApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

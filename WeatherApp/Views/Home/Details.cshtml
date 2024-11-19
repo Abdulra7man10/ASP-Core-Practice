@@ -1,0 +1,23 @@
+@model City
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.appTitle</title>
+    <link href="~/Style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="page-content">
+        <h1>Weather</h1>
+        <div class="box float-left w-50">
+            <h5>@Model.CityName</h5>
+            <div>@Model.DateAndTime?.ToString("h:mm tt")</div>
+            <div>@Model.TemperatureFahrenheit</div>
+            <a href="/">Back to Weather Home Page</a>
+        </div>
+    </div>
+</body>
+</html>

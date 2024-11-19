@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/RazorApp/obj/Debug/net8.0/scopedcss/projectbundle/RazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/RazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/RazorApp/wwwroot/Style.css",
+      "PackagePath": "staticwebassets/Style.css"
+    },
+    {
+      "Id": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/RazorApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RazorApp.props",
+      "PackagePath": "build\\RazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RazorApp.props",
+      "PackagePath": "buildMultiTargeting\\RazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RazorApp.props",
+      "PackagePath": "buildTransitive\\RazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

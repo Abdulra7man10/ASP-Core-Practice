@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIyU8/ECmP0=",
+  "dgSpecHash": "sb6Tz3L4q6+kY1JAf0JibO4tgGcUDy7ztJgyoiLva5RghOfLQ+NC0JOPj3sU/GfqUTA05O51046aAVZXaO3Dkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\OrdersApp\\OrdersApp.csproj",
+  "projectFilePath": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/OrdersApp/OrdersApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

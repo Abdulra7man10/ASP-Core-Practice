@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqaY5GIflro=",
+  "dgSpecHash": "HkHMXc769wQWZ9Bjk6yp3Vu8Gd3771ld76Z0iR0SSCdu+AE2tZEzIhzWrAZGPseNbKkf9qkY2skBRBwH2qg1sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MyFirstApp\\MyFirstApp.csproj",
+  "projectFilePath": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/MyFirstApp/MyFirstApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

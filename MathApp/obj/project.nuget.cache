@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SiUBS0vkqEQ=",
+  "dgSpecHash": "04QTyV/wgFQ8aAhsJnfTN6GBqBPA7ape3A00WsNb6wgGoNtyKlYb9dTcpq1N3ryM2Uo4YfOseVz8hVxDoJ9RJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\MathApp\\MathApp.csproj",
+  "projectFilePath": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/MathApp/MathApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

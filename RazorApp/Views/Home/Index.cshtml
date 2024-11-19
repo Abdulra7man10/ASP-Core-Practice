@@ -1,0 +1,37 @@
+@using RazorApp.Models
+@model IEnumerable<Person>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.appTitle</title>
+    <link href="~/Style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="page-content">
+        <h1>Hello World!</h1>
+        @foreach(var person in Model)
+        {
+            <div class="box float-left w-50">
+                <h3>@person.Name</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@person.PersonGender</td>
+                        </tr>
+                        <tr>
+                            <td>Date of Birth</td>
+                            <td>@person.DateOfBirth?.ToString("yyyy/MM/dd")</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a href="/person-details/@person.Name">Details</a>
+            </div>
+        }
+    </div>
+</body>
+</html>

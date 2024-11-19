@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kix8jcq57+s=",
+  "dgSpecHash": "vAORDQPZROLKK9ODZ5xgkHrmLmturlSQJvuw908LQsTg5MMZx0YP29JPeUKR7QMAV9/8ndZADGjlGC1h1URxmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdo1\\Desktop\\Current_track\\1-Back-end-track\\ASP.Net\\MyFirstApp\\BankApp\\BankApp.csproj",
+  "projectFilePath": "/home/abdo/Desktop/AspCore/ASP-Core-Practice/BankApp/BankApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

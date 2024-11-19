@@ -1,0 +1,27 @@
+@model IEnumerable<City>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.appTitle</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>Weather</h1>
+        <div class="flex">
+            @foreach(var city in Model)
+            {
+                <div class="box float-left w-50">
+                    <h5>@city.CityName</h5>
+                    <div>@city.DateAndTime?.ToString("h:mm tt")</div>
+                    <div>@city.TemperatureFahrenheit</div>
+                    <a href="/weather/@city.CityUniqueCode">Details</a>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>
